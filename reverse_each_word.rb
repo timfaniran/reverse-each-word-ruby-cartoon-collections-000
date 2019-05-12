@@ -7,11 +7,11 @@ def reverse_each_word(string)
   new_arr.join(" ")
 end
 
-def reverse_each_word_each(strg)
-  array = strg.split(" ")
-  new_array = []
-  arr.each do |str|
-    new_array << str.reverse
-    end
-  new_array.join(" ")
-end
+# def reverse_each_word_each(strg)
+#   array = strg.split(" ")
+#   new_array = []
+#   arr.each do |str|
+#     new_array << str.reverse
+#     end
+#   new_array.join(" ")
+# end
